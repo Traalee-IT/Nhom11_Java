@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: jcalendar-1.4.jar commons-lang3-3.4.jar mysql-connector-j-8.
+ 0.32.jar protobuf-java-3.21.9.jar mssql-jdbc-12.1.0.jre11-preview.jar
+Main-Class: Main.test
+Created-By: Maven Integration for Eclipse
+
